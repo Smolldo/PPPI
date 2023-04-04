@@ -1,0 +1,8 @@
+E:\LR7\ppi\ppiGonyk1\ppiGonyk1\bin\Debug\ppiGonyk1.exe.config
+E:\LR7\ppi\ppiGonyk1\ppiGonyk1\bin\Debug\ppiGonyk1.exe
+E:\LR7\ppi\ppiGonyk1\ppiGonyk1\bin\Debug\ppiGonyk1.pdb
+E:\LR7\ppi\ppiGonyk1\ppiGonyk1\obj\Debug\ppiGonyk1.csproj.AssemblyReference.cache
+E:\LR7\ppi\ppiGonyk1\ppiGonyk1\obj\Debug\ppiGonyk1.csproj.SuggestedBindingRedirects.cache
+E:\LR7\ppi\ppiGonyk1\ppiGonyk1\obj\Debug\ppiGonyk1.csproj.CoreCompileInputs.cache
+E:\LR7\ppi\ppiGonyk1\ppiGonyk1\obj\Debug\ppiGonyk1.exe
+E:\LR7\ppi\ppiGonyk1\ppiGonyk1\obj\Debug\ppiGonyk1.pdb
