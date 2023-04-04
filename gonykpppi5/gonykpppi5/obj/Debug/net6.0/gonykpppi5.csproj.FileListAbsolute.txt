@@ -1,0 +1,15 @@
+E:\LR7\ppi\gonykpppi5\gonykpppi5\bin\Debug\net6.0\gonykpppi5.exe
+E:\LR7\ppi\gonykpppi5\gonykpppi5\bin\Debug\net6.0\gonykpppi5.deps.json
+E:\LR7\ppi\gonykpppi5\gonykpppi5\bin\Debug\net6.0\gonykpppi5.runtimeconfig.json
+E:\LR7\ppi\gonykpppi5\gonykpppi5\bin\Debug\net6.0\gonykpppi5.dll
+E:\LR7\ppi\gonykpppi5\gonykpppi5\bin\Debug\net6.0\gonykpppi5.pdb
+E:\LR7\ppi\gonykpppi5\gonykpppi5\obj\Debug\net6.0\gonykpppi5.csproj.AssemblyReference.cache
+E:\LR7\ppi\gonykpppi5\gonykpppi5\obj\Debug\net6.0\gonykpppi5.GeneratedMSBuildEditorConfig.editorconfig
+E:\LR7\ppi\gonykpppi5\gonykpppi5\obj\Debug\net6.0\gonykpppi5.AssemblyInfoInputs.cache
+E:\LR7\ppi\gonykpppi5\gonykpppi5\obj\Debug\net6.0\gonykpppi5.AssemblyInfo.cs
+E:\LR7\ppi\gonykpppi5\gonykpppi5\obj\Debug\net6.0\gonykpppi5.csproj.CoreCompileInputs.cache
+E:\LR7\ppi\gonykpppi5\gonykpppi5\obj\Debug\net6.0\gonykpppi5.dll
+E:\LR7\ppi\gonykpppi5\gonykpppi5\obj\Debug\net6.0\refint\gonykpppi5.dll
+E:\LR7\ppi\gonykpppi5\gonykpppi5\obj\Debug\net6.0\gonykpppi5.pdb
+E:\LR7\ppi\gonykpppi5\gonykpppi5\obj\Debug\net6.0\gonykpppi5.genruntimeconfig.cache
+E:\LR7\ppi\gonykpppi5\gonykpppi5\obj\Debug\net6.0\ref\gonykpppi5.dll
